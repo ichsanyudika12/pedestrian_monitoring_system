@@ -13,17 +13,11 @@
 ## Build & Run
 
     git clone https://github.com/ichsanyudika12/Pedestrian-Monitoring-System.git
-    
     cd Pedestrian-Monitoring-System
-    
     mkdir build
-    
     cd build
-    
     cmake ..
-    
     make
-    
     ./realtime
 
 ## Demo
