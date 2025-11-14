@@ -26,10 +26,10 @@
 
 - ./realtime
 
-# Demo
+## Demo
 
 Watch the demo video here: https://youtu.be/UB4yfnNxBG4?si=ToMmcdq0GGGMhcF8
 
-# Reference
+## Reference
 
 https://github.com/kysgattu/Pedestrian-Detection-System.git
