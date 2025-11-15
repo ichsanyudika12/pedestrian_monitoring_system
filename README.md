@@ -14,8 +14,8 @@
 
 1. Clone Repository
 
-       git clone https://github.com/ichsanyudika12/pedestrian_monitoring_System.git
-       cd pedestrian_monitoring_System
+       git clone https://github.com/ichsanyudika12/pedestrian_monitoring_system.git
+       cd pedestrian_monitoring_system
 
 2. Build
    
